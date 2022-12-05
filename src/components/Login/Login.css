@@ -1,0 +1,29 @@
+
+
+
+:root{
+    --font-main:'Roboto', sans-serif;
+}
+
+.login-head{
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    font-family: var(--font-main);
+}
+.student-login{
+    display: grid;
+    place-items: center;
+}
+.teacher-login{
+    display: grid;
+    place-items: center;
+}
+.login-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    height: 90vh;
+}
+

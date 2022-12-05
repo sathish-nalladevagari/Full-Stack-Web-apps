@@ -1,0 +1,121 @@
+.username-div {
+    position: absolute;
+    top: 209px;
+    left: 115px;
+    font-weight: 600;
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+  }
+  .email-div,
+  .password-div,
+  .username-div {
+    font-size: var(--font-size-base);
+  }
+  .email-div {
+    position: absolute;
+    top: 266px;
+    left: 137px;
+    font-weight: 600;
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+  }
+  .password-div {
+    top: 329px;
+    left: 115px;
+  }
+  .password-div,
+  .registration-form-div,
+  .studentteacher-div {
+    position: absolute;
+    font-weight: 600;
+    font-family: var(--font-inter);
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+  }
+  .studentteacher-div {
+    top: 386px;
+    left: 56px;
+    font-size: var(--font-size-base);
+  }
+  .registration-form-div {
+    top: 102px;
+    left: 157px;
+    font-size: 36px;
+  }
+  .rectangle-input,
+  .rectangle-input1 {
+    border: 0;
+    background-color: var(--color-gray-100);
+    position: absolute;
+    top: 201px;
+    left: 284px;
+    border-radius: var(--br-sm);
+    width: 251px;
+    height: 44px;
+  }
+  .rectangle-input1 {
+    top: 263px;
+    border-radius: var(--br-md);
+  }
+  .rectangle-input2,
+  .rectangle-select {
+    position: absolute;
+    left: 284px;
+    background-color: var(--color-white);
+    width: 251px;
+    height: 44px;
+  }
+  .rectangle-input2 {
+    border: 0;
+    top: 321px;
+    border-radius: var(--br-md);
+  }
+  .rectangle-select {
+    top: 379px;
+    border-radius: var(--br-sm);
+  }
+  .rectangle-button {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: #1c1b1b;
+    position: absolute;
+    top: 478px;
+    left: 182px;
+    border-radius: 10px;
+    width: 260px;
+    height: 68px;
+  }
+  .register-b {
+    position: absolute;
+    top: 490px;
+    left: 236px;
+    font-size: 32px;
+    display: inline-block;
+    font-family: var(--font-inter);
+    color: var(--color-white);
+    text-align: left;
+  }
+  .frame-form {
+    position: absolute;
+    top: 171px;
+    left: 411px;
+    border-radius: 17px;
+    background-color: #b5b5b5;
+    width: 617px;
+    height: 620px;
+    overflow: hidden;
+  }
+  .desktop-1 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1024px;
+    overflow: hidden;
+  }
+  

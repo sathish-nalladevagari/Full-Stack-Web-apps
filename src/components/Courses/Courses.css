@@ -1,0 +1,126 @@
+.line-div {
+    position: absolute;
+    top: 162.5px;
+    left: 138.5px;
+    border-top: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1115px;
+    height: 1px;
+  }
+  .explore-the-courses {
+    margin: 0;
+    position: absolute;
+    top: 114px;
+    left: 139px;
+    font-size: inherit;
+    font-weight: 700;
+    font-family: inherit;
+    display: inline-block;
+  }
+  .rectangle-div,
+  .rectangle-div1,
+  .rectangle-div2,
+  .rectangle-div3,
+  .rectangle-div4,
+  .rectangle-div5 {
+    position: absolute;
+    top: 50px;
+    left: 40px;
+    border-radius: var(--br-lg);
+    background-color: var(--color-gray-200);
+    width: 475px;
+    height: 142px;
+  }
+  .rectangle-div1,
+  .rectangle-div2,
+  .rectangle-div3,
+  .rectangle-div4,
+  .rectangle-div5 {
+    left: 554px;
+  }
+  .rectangle-div2,
+  .rectangle-div3,
+  .rectangle-div4,
+  .rectangle-div5 {
+    top: 233px;
+  }
+  .rectangle-div3,
+  .rectangle-div4,
+  .rectangle-div5 {
+    top: 416px;
+  }
+  .rectangle-div4,
+  .rectangle-div5 {
+    left: 52px;
+  }
+  .rectangle-div5 {
+    top: 233px;
+  }
+  .htmlcss-b,
+  .reactjs-b {
+    position: absolute;
+    top: 102px;
+    left: 215px;
+    display: inline-block;
+  }
+  .htmlcss-b {
+    left: 685px;
+  }
+  .java-b {
+    top: 285px;
+    left: 217px;
+  }
+  .cc-b,
+  .java-b,
+  .python-b,
+  .sql-b {
+    position: absolute;
+    display: inline-block;
+  }
+  .python-b {
+    top: calc(50% + 2.5px);
+    left: calc(50% + 161.5px);
+  }
+  .cc-b,
+  .sql-b {
+    top: 463px;
+    left: 227px;
+  }
+  .cc-b {
+    left: 736px;
+  }
+  .frame-div {
+    position: absolute;
+    top: 245px;
+    left: 146px;
+    background-color: #d6d1d1;
+    width: 1107px;
+    height: 581px;
+    overflow: hidden;
+  }
+  .rectangle-div6 {
+    position: absolute;
+    top: 911px;
+    left: 0;
+    background-color: #d9d9d9;
+    width: 1440px;
+    height: 113px;
+  }
+  .lms-courses-b {
+    position: absolute;
+    top: 948px;
+    left: 592px;
+    display: inline-block;
+  }
+  .desktop-2 {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 899px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  

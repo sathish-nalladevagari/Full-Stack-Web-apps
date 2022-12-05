@@ -1,0 +1,30 @@
+.v{
+    background-color: #6419f8;
+}
+.nav-link{
+    color: rgb(255 255 255) !important;
+    font-weight: 400;
+}
+.link{
+    color: black;
+    text-decoration: none;
+}
+.v1{
+    flex-wrap:wrap !important;
+}
+#id2{
+    text-decoration: none;
+    color: white;
+}
+#id3{
+    text-decoration: none;
+    color: black;
+}
+/* #i1{
+    display: flex !important;
+    justify-content: space-between !important;
+    flex-wrap:wrap !important;
+} */
+/* .wid{
+    width: fit-content;
+} */

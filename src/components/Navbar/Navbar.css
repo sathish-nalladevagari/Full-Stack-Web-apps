@@ -1,0 +1,14 @@
+.nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+ul{
+    display: flex;
+}
+ul li{
+    padding: 1rem 2rem;
+    list-style-type: none;
+    
+}
